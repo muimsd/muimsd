@@ -1,5 +1,5 @@
 - 👋 I’m @Muhammad Imran Siddique.
-- 👀 I’m interested in GeoSpatial Software development.
+- 👀 I’m interested in GeoSpatial software development.
 - 🌱 I’m currently learning Machine Learning.
 - 💞️ I’m looking to collaborate on GIS development.
 - 📫 ..........................................
