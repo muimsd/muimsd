@@ -1,5 +1,4 @@
 - 👋 I’m @Muhammad Imran Siddique.
-- 👀 I’m interested in GeoSpatial software development.
 - 💞️ I’m looking to collaborate on GIS development.
 <!---
 muimsd/muimsd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
