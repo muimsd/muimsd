@@ -4,9 +4,10 @@
 
 Based in Pakistan. Available for consulting on GIS, web maps, and spatial data pipelines.
 
-[![Followers](https://img.shields.io/github/followers/muimsd?style=for-the-badge&label=Followers&color=2563eb)](https://github.com/muimsd?tab=followers)
-[![Stars](https://img.shields.io/github/stars/muimsd?style=for-the-badge&label=Total%20Stars&color=eab308)](https://github.com/muimsd)
-[![GitHub since](https://img.shields.io/badge/GitHub_since-2017-1f6feb?style=for-the-badge)](https://github.com/muimsd)
+[![Followers](https://img.shields.io/github/followers/muimsd?style=for-the-badge&label=Followers&logo=github&color=2563eb)](https://github.com/muimsd?tab=followers)
+[![Stars](https://img.shields.io/github/stars/muimsd?style=for-the-badge&label=Total%20Stars&logo=github&color=eab308)](https://github.com/muimsd)
+[![Profile views](https://komarev.com/ghpvc/?username=muimsd&style=for-the-badge&label=Profile+views&color=10b981)](https://github.com/muimsd)
+[![GitHub since](https://img.shields.io/badge/GitHub_since-2017-1f6feb?style=for-the-badge&logo=github)](https://github.com/muimsd)
 
 ---
 
@@ -14,10 +15,10 @@ Based in Pakistan. Available for consulting on GIS, web maps, and spatial data p
 
 | Project | What it does | Stars |
 |---|---|---|
-| **[esri-gl](https://github.com/muimsd/esri-gl)** | Use Esri / ArcGIS services natively in Mapbox GL JS and MapLibre GL JS. Like `esri-leaflet`, but for WebGL maps. | ![](https://img.shields.io/github/stars/muimsd/esri-gl?style=flat-square&label=) |
-| **[map-gl-offline](https://github.com/muimsd/map-gl-offline)** | Offline-first tile caching for Mapbox / MapLibre. Pre-fetch a region, store in IndexedDB, serve via service worker. | ![](https://img.shields.io/github/stars/muimsd/map-gl-offline?style=flat-square&label=) |
-| **[map-gl-style-switcher](https://github.com/muimsd/map-gl-style-switcher)** | A small, dependency-free basemap-switcher control that preserves custom layers across style changes. [Live demo](https://map-gl-style-switcher.netlify.app/). | ![](https://img.shields.io/github/stars/muimsd/map-gl-style-switcher?style=flat-square&label=) |
-| **[tilefeed](https://github.com/muimsd/tilefeed)** | Rust daemon that watches PostGIS via `LISTEN/NOTIFY` and incrementally rewrites MBTiles tiles in seconds. | ![](https://img.shields.io/github/stars/muimsd/tilefeed?style=flat-square&label=) |
+| **[esri-gl](https://github.com/muimsd/esri-gl)** | Use Esri / ArcGIS services natively in Mapbox GL JS and MapLibre GL JS. Like `esri-leaflet`, but for WebGL maps. | [![](https://img.shields.io/github/stars/muimsd/esri-gl?style=flat-square&label=&logo=github)](https://github.com/muimsd/esri-gl) |
+| **[map-gl-offline](https://github.com/muimsd/map-gl-offline)** | Offline-first tile caching for Mapbox / MapLibre. Pre-fetch a region, store in IndexedDB, serve via service worker. | [![](https://img.shields.io/github/stars/muimsd/map-gl-offline?style=flat-square&label=&logo=github)](https://github.com/muimsd/map-gl-offline) |
+| **[map-gl-style-switcher](https://github.com/muimsd/map-gl-style-switcher)** | A small, dependency-free basemap-switcher control that preserves custom layers across style changes. [Live demo](https://map-gl-style-switcher.netlify.app/). | [![](https://img.shields.io/github/stars/muimsd/map-gl-style-switcher?style=flat-square&label=&logo=github)](https://github.com/muimsd/map-gl-style-switcher) |
+| **[tilefeed](https://github.com/muimsd/tilefeed)** | Rust daemon that watches PostGIS via `LISTEN/NOTIFY` and incrementally rewrites MBTiles tiles in seconds. | [![](https://img.shields.io/github/stars/muimsd/tilefeed?style=flat-square&label=&logo=github)](https://github.com/muimsd/tilefeed) |
 
 Star, fork, file an issue — feedback on any of these is welcome.
 
@@ -39,16 +40,9 @@ Star, fork, file an issue — feedback on any of these is welcome.
 
 ---
 
-## GitHub stats
+## Activity
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=muimsd&show_icons=true&icon_color=2563eb&title_color=2563eb&hide_border=true&theme=transparent&cache_seconds=86400" alt="muimsd's GitHub stats" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muimsd&layout=compact&hide_border=true&theme=transparent&cache_seconds=86400&exclude_repo=homebrew-tilefeed" alt="Top languages" />
-</a>
-
-*Cards above are powered by github-readme-stats and may occasionally be unavailable when its Vercel service is rate-limited.*
+[![muimsd's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=muimsd&bg_color=ffffff&color=2563eb&line=2563eb&point=eab308&area=true&hide_border=true)](https://github.com/muimsd)
 
 ---
 
