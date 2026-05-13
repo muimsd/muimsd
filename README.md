@@ -4,16 +4,20 @@
 
 Based in Pakistan. Available for consulting on GIS, web maps, and spatial data pipelines.
 
+[![Followers](https://img.shields.io/github/followers/muimsd?style=for-the-badge&label=Followers&color=2563eb)](https://github.com/muimsd?tab=followers)
+[![Stars](https://img.shields.io/github/stars/muimsd?style=for-the-badge&label=Total%20Stars&color=eab308)](https://github.com/muimsd)
+[![GitHub since](https://img.shields.io/badge/GitHub_since-2017-1f6feb?style=for-the-badge)](https://github.com/muimsd)
+
 ---
 
 ## Featured open source
 
-| Project | What it does |
-|---|---|
-| **[esri-gl](https://github.com/muimsd/esri-gl)** | Use Esri / ArcGIS services natively in Mapbox GL JS and MapLibre GL JS. Like `esri-leaflet`, but for WebGL maps. |
-| **[map-gl-offline](https://github.com/muimsd/map-gl-offline)** | Offline-first tile caching for Mapbox / MapLibre. Pre-fetch a region, store in IndexedDB, serve via service worker. |
-| **[map-gl-style-switcher](https://github.com/muimsd/map-gl-style-switcher)** | A small, dependency-free basemap-switcher control that preserves custom layers across style changes. [Live demo](https://map-gl-style-switcher.netlify.app/). |
-| **[tilefeed](https://github.com/muimsd/tilefeed)** | Rust daemon that watches PostGIS via `LISTEN/NOTIFY` and incrementally rewrites MBTiles tiles in seconds. |
+| Project | What it does | Stars |
+|---|---|---|
+| **[esri-gl](https://github.com/muimsd/esri-gl)** | Use Esri / ArcGIS services natively in Mapbox GL JS and MapLibre GL JS. Like `esri-leaflet`, but for WebGL maps. | ![](https://img.shields.io/github/stars/muimsd/esri-gl?style=flat-square&label=) |
+| **[map-gl-offline](https://github.com/muimsd/map-gl-offline)** | Offline-first tile caching for Mapbox / MapLibre. Pre-fetch a region, store in IndexedDB, serve via service worker. | ![](https://img.shields.io/github/stars/muimsd/map-gl-offline?style=flat-square&label=) |
+| **[map-gl-style-switcher](https://github.com/muimsd/map-gl-style-switcher)** | A small, dependency-free basemap-switcher control that preserves custom layers across style changes. [Live demo](https://map-gl-style-switcher.netlify.app/). | ![](https://img.shields.io/github/stars/muimsd/map-gl-style-switcher?style=flat-square&label=) |
+| **[tilefeed](https://github.com/muimsd/tilefeed)** | Rust daemon that watches PostGIS via `LISTEN/NOTIFY` and incrementally rewrites MBTiles tiles in seconds. | ![](https://img.shields.io/github/stars/muimsd/tilefeed?style=flat-square&label=) |
 
 Star, fork, file an issue — feedback on any of these is welcome.
 
@@ -37,9 +41,14 @@ Star, fork, file an issue — feedback on any of these is welcome.
 
 ## GitHub stats
 
-![muimsd's GitHub stats](https://github-readme-stats.vercel.app/api?username=muimsd&show_icons=true&theme=default&hide_border=true&count_private=false)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=muimsd&show_icons=true&icon_color=2563eb&title_color=2563eb&hide_border=true&theme=transparent&cache_seconds=86400" alt="muimsd's GitHub stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muimsd&layout=compact&hide_border=true&theme=transparent&cache_seconds=86400&exclude_repo=homebrew-tilefeed" alt="Top languages" />
+</a>
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muimsd&layout=compact&theme=default&hide_border=true&exclude_repo=awesome-vector-tiles,awesome-maplibre)
+*Cards above are powered by github-readme-stats and may occasionally be unavailable when its Vercel service is rate-limited.*
 
 ---
 
