@@ -2,7 +2,7 @@
 
 **Solution Architect** working at the intersection of web mapping, GIS, and large-scale spatial systems. I build open source tools that make Mapbox GL JS, MapLibre GL JS, and PostGIS easier to use in production.
 
-Based in Pakistan. Available for consulting on GIS, web maps, and spatial data pipelines.
+Based in Pakistan. **Open to full-time roles and contract/consulting work** in GIS, web maps, and spatial data pipelines.
 
 [![Followers](https://img.shields.io/github/followers/muimsd?style=for-the-badge&label=Followers&logo=github&color=2563eb)](https://github.com/muimsd?tab=followers)
 [![Stars](https://img.shields.io/github/stars/muimsd?style=for-the-badge&label=Total%20Stars&logo=github&color=eab308)](https://github.com/muimsd)
