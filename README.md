@@ -42,7 +42,7 @@ Star, fork, file an issue — feedback on any of these is welcome.
 
 ## Activity
 
-[![muimsd's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=muimsd&bg_color=ffffff&color=2563eb&line=2563eb&point=eab308&area=true&hide_border=true)](https://github.com/muimsd)
+[![muimsd's contribution chart](https://ghchart.rshah.org/2563eb/muimsd)](https://github.com/muimsd)
 
 ---
 
