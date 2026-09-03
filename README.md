@@ -40,12 +40,6 @@ Star, fork, file an issue — feedback on any of these is welcome.
 
 ---
 
-## Activity
-
-[![muimsd's contribution chart](https://ghchart.rshah.org/2563eb/muimsd)](https://github.com/muimsd)
-
----
-
 ## Connect
 
 - Writing: [medium.com/@muimsd](https://medium.com/@muimsd/)
